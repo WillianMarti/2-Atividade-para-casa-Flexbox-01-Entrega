@@ -1,2 +1,3 @@
-# 2-Atividade-para-casa-Flexbox-01-Entrega
- 2. Atividade para casa - Flexbox 01 - Entrega
+# Atividade 01 de Flexbox
+
+Feito por Willian Martins Ferreira de Souza ADSA;
